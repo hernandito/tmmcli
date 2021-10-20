@@ -27,6 +27,7 @@ RUN \
         openjdk8-jre \
         libmediainfo \
         bash \
+        mc\
         gettext
 
 # Add files.
